@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Lab07", "WebAPI_Lab07\WebAPI_Lab07.csproj", "{BB11087D-3879-4521-9E0A-140E0C84B45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB11087D-3879-4521-9E0A-140E0C84B45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB11087D-3879-4521-9E0A-140E0C84B45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB11087D-3879-4521-9E0A-140E0C84B45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB11087D-3879-4521-9E0A-140E0C84B45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
